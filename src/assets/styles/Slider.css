@@ -1,0 +1,16 @@
+
+#logoImages{
+    width: 99%;
+    height: 621px;
+    overflow-x: hidden;
+}
+
+@media (max-width: 767px) { 
+    #logoImages{
+        height:335px;
+    }
+
+    .carouselExampleCaptions{
+        height:330px;
+    }
+  }
